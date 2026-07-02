@@ -37,7 +37,7 @@ Abaixo estão os pilares do meu portfólio, demonstrando competências complemen
 
 ---
 
-📫 **Como me encontrar:** [LinkedIn](https://linkedin.com/in/ana-carina-romualdo-dos-santos) | [E-mail] (mailto:carinasantos.ds@gmail.com)
+📫 **Como me encontrar:** [LinkedIn](https://linkedin.com/in/ana-carina-romualdo-dos-santos) | [E-mail](mailto:carinasantos.ds@gmail.com)
 
 <!--
 **carinarsantos/carinarsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
